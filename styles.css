@@ -1,0 +1,33 @@
+/* Backround colours */
+header, footer {backround-color:#6A5ACD}
+nav{background-color:#6A5ACD}
+main{background-color:#6A5ACD}
+
+/* Text Properties */
+h1 {font-size:32px;
+	color:white;
+  font-family: Tahoma;
+  text-align:center;}
+
+/* Navigation List Properties */
+nav ul {list-style-type:none}
+a{color:white;font-family: Tahoma;}
+nav ul li {float:left;width:120px;text-align:center}
+nav uli li a {display:block;padding:10px}
+nav uli li:hover {background-
+color:#edd9c0;color:#7d4627}
+
+nav{height:38px}
+
+/* MARGINS */
+nav,main,footer {margin-top:5px}
+section {margin:5px}
+body{margin:auto}
+
+p{margin-bottom:15px}
+
+p{
+  color:white;
+  font-size:18px;
+  font-family: Tahoma;
+} 
